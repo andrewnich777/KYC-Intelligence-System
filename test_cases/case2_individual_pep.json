@@ -1,0 +1,51 @@
+{
+    "client_type": "individual",
+    "full_name": "Maria Chen-Dubois",
+    "date_of_birth": "1972-08-22",
+    "citizenship": "Canada",
+    "country_of_residence": "Canada",
+    "country_of_birth": "Hong Kong",
+    "address": {
+        "street": "1200 Boulevard René-Lévesque Ouest, Apt 4501",
+        "city": "Montreal",
+        "province_state": "Quebec",
+        "postal_code": "H3B 1H7",
+        "country": "Canada"
+    },
+    "sin_last4": "3456",
+    "us_person": false,
+    "tax_residencies": ["Canada", "Hong Kong"],
+    "pep_self_declaration": true,
+    "pep_details": "Former Member of Parliament, House of Commons (2015-2023). Currently serves on the board of the Canada Infrastructure Bank.",
+    "employment": {
+        "status": "self_employed",
+        "employer": "Chen-Dubois Consulting Inc.",
+        "occupation": "Political Consultant",
+        "industry": "Government Relations",
+        "years_employed": 2
+    },
+    "annual_income": 450000,
+    "net_worth": 3200000,
+    "source_of_funds": "business_income",
+    "source_of_wealth": "Parliamentary pension, consulting fees, family inheritance (Hong Kong real estate), investment portfolio",
+    "intended_use": "Diversified investment management and estate planning",
+    "account_requests": [
+        {
+            "account_type": "personal_investment",
+            "investment_objectives": "growth",
+            "risk_tolerance": "high",
+            "time_horizon": "10-20 years",
+            "initial_deposit": 500000,
+            "expected_activity": "Quarterly rebalancing, occasional large deposits from consulting income"
+        },
+        {
+            "account_type": "tfsa",
+            "investment_objectives": "balanced_growth",
+            "risk_tolerance": "medium",
+            "time_horizon": "20+ years",
+            "initial_deposit": 88000,
+            "expected_activity": "Annual maximum contribution"
+        }
+    ],
+    "third_party_determination": false
+}

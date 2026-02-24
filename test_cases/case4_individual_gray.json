@@ -1,0 +1,42 @@
+{
+    "client_type": "individual",
+    "full_name": "David Chen",
+    "date_of_birth": "1978-09-22",
+    "citizenship": "Canada",
+    "country_of_residence": "Canada",
+    "country_of_birth": "Hong Kong",
+    "address": {
+        "street": "88 Harbour Street, Unit 3201",
+        "city": "Vancouver",
+        "province_state": "British Columbia",
+        "postal_code": "V6Z 2Y8",
+        "country": "Canada"
+    },
+    "sin_last4": "4521",
+    "us_person": false,
+    "tax_residencies": ["Canada", "Hong Kong"],
+    "pep_self_declaration": false,
+    "employment": {
+        "status": "self_employed",
+        "employer": "Chen International Trading Ltd.",
+        "occupation": "Import/Export Consultant",
+        "industry": "International Trade",
+        "years_employed": 12
+    },
+    "annual_income": 185000,
+    "net_worth": 2800000,
+    "source_of_funds": "business_income",
+    "source_of_wealth": "Business profits from import/export consulting and inherited family property in Hong Kong",
+    "intended_use": "Diversified portfolio management and cross-border investment",
+    "account_requests": [
+        {
+            "account_type": "personal_investment",
+            "investment_objectives": "growth",
+            "risk_tolerance": "high",
+            "time_horizon": "10+ years",
+            "initial_deposit": 500000,
+            "expected_activity": "Quarterly deposits of $25,000-$75,000, occasional large transfers"
+        }
+    ],
+    "third_party_determination": false
+}

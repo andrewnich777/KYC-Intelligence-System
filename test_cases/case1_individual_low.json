@@ -1,0 +1,42 @@
+{
+    "client_type": "individual",
+    "full_name": "Sarah Thompson",
+    "date_of_birth": "1985-03-15",
+    "citizenship": "Canada",
+    "country_of_residence": "Canada",
+    "country_of_birth": "Canada",
+    "address": {
+        "street": "456 Maple Avenue",
+        "city": "Toronto",
+        "province_state": "Ontario",
+        "postal_code": "M5V 2T6",
+        "country": "Canada"
+    },
+    "sin_last4": "7890",
+    "us_person": false,
+    "tax_residencies": ["Canada"],
+    "pep_self_declaration": false,
+    "employment": {
+        "status": "employed",
+        "employer": "Toronto General Hospital",
+        "occupation": "Registered Nurse",
+        "industry": "Healthcare",
+        "years_employed": 8
+    },
+    "annual_income": 92000,
+    "net_worth": 340000,
+    "source_of_funds": "employment_income",
+    "source_of_wealth": "Employment savings and RRSP contributions",
+    "intended_use": "Long-term retirement savings",
+    "account_requests": [
+        {
+            "account_type": "personal_investment",
+            "investment_objectives": "balanced_growth",
+            "risk_tolerance": "medium",
+            "time_horizon": "20+ years",
+            "initial_deposit": 25000,
+            "expected_activity": "Monthly contributions of $500"
+        }
+    ],
+    "third_party_determination": false
+}

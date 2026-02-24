@@ -1,0 +1,37 @@
+# KYC Intelligence — Risk Configuration Overrides
+#
+# Override any numeric/string constant from constants.py by name.
+# Omitted or commented values use the Python defaults.
+# Complex types (US_TERMS, CANADA_TERMS) cannot be overridden here.
+#
+# Examples (uncomment to activate):
+#
+# RISK_TIER_LOW_MAX: 15
+# RISK_TIER_MEDIUM_MAX: 35
+# RISK_TIER_HIGH_MAX: 60
+#
+# UBO_SANCTIONS_RISK_POINTS: 30
+# UBO_PEP_RISK_POINTS: 25
+# UBO_ADVERSE_MEDIA_RISK_POINTS: 15
+#
+# UBO_RISK_CONTRIBUTION_FACTOR: 0.75
+#   Factor applied to highest-risk UBO score when computing entity risk.
+#   PCMLTFA requires entity risk to reflect beneficial owner risk.
+#   0.75 accounts for legitimate corporate insulation while maintaining
+#   regulatory compliance. Set to 1.0 for full pass-through.
+#
+# PEP_EXPIRED_RESIDUAL_POINTS: 5
+#   Residual risk points for former domestic PEPs whose 5-year EDD
+#   window has expired. Set to 0 to fully clear.
+#
+# LARGE_CASH_TRANSACTION_THRESHOLD: 10000
+#
+# CONFIDENCE_GRADE_A_THRESHOLD: 70
+# CONFIDENCE_GRADE_B_THRESHOLD: 50
+# CONFIDENCE_GRADE_C_THRESHOLD: 30
+# CONFIDENCE_GRADE_D_THRESHOLD: 15
+#
+# EDD_RISK_SCORE_THRESHOLD: 36
+#
+# FETCH_CACHE_TTL_SECONDS: 3600
+# CSL_CACHE_TTL_SECONDS: 86400

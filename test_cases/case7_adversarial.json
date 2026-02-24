@@ -1,0 +1,60 @@
+{
+    "client_type": "business",
+    "legal_name": "Pacific Rim Consulting Group Ltd.",
+    "operating_name": "Pacific Rim Consulting",
+    "business_number": "BC1234567",
+    "incorporation_date": "2024-03-15",
+    "incorporation_jurisdiction": "British Columbia",
+    "entity_type": "Corporation",
+    "industry": "Management Consulting",
+    "nature_of_business": "Strategic advisory and management consulting services for Asia-Pacific clients",
+    "address": {
+        "street": "1200 Burrard Street, Suite 800",
+        "city": "Vancouver",
+        "province_state": "British Columbia",
+        "postal_code": "V6Z 2C7",
+        "country": "Canada"
+    },
+    "countries_of_operation": ["Canada", "Singapore"],
+    "us_nexus": false,
+    "annual_revenue": 2400000,
+    "expected_transaction_volume": 200000,
+    "expected_transaction_frequency": "monthly",
+    "source_of_funds": "client_fees",
+    "intended_use": "Operating account for client fee receipts and payroll",
+    "beneficial_owners": [
+        {
+            "full_name": "Dmitri Volkov",
+            "date_of_birth": "1978-06-22",
+            "citizenship": "Canada",
+            "country_of_residence": "Canada",
+            "country_of_birth": "Russia",
+            "ownership_percentage": 55,
+            "role": "President and Director",
+            "pep_self_declaration": false,
+            "us_person": false,
+            "tax_residencies": ["Canada"]
+        },
+        {
+            "full_name": "James Chen Wei-Lin",
+            "date_of_birth": "1982-11-03",
+            "citizenship": "Canada",
+            "country_of_residence": "Canada",
+            "country_of_birth": "Hong Kong",
+            "ownership_percentage": 45,
+            "role": "Vice President and Director",
+            "pep_self_declaration": false,
+            "us_person": false,
+            "tax_residencies": ["Canada"]
+        }
+    ],
+    "authorized_signatories": ["Dmitri Volkov", "James Chen Wei-Lin"],
+    "account_requests": [
+        {
+            "account_type": "corporate_operating",
+            "initial_deposit": 150000,
+            "expected_activity": "Monthly client fee receipts of $200K, payroll disbursements, vendor payments to Singapore-based subcontractors"
+        }
+    ],
+    "third_party_determination": false
+}

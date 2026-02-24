@@ -1,0 +1,30 @@
+{
+    "client_type": "individual",
+    "full_name": "Maria Rodriguez",
+    "date_of_birth": null,
+    "citizenship": "Canada",
+    "country_of_residence": "Canada",
+    "country_of_birth": null,
+    "address": null,
+    "sin_last4": null,
+    "us_person": false,
+    "tax_residencies": ["Canada"],
+    "pep_self_declaration": false,
+    "employment": null,
+    "annual_income": null,
+    "net_worth": null,
+    "source_of_funds": null,
+    "source_of_wealth": null,
+    "intended_use": null,
+    "account_requests": [
+        {
+            "account_type": "personal_investment",
+            "investment_objectives": null,
+            "risk_tolerance": null,
+            "time_horizon": null,
+            "initial_deposit": null,
+            "expected_activity": null
+        }
+    ],
+    "third_party_determination": false
+}

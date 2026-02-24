@@ -1,0 +1,42 @@
+{
+    "client_type": "individual",
+    "full_name": "Mohammed Ali",
+    "date_of_birth": "1990-01-15",
+    "citizenship": "Canada",
+    "country_of_residence": "Canada",
+    "country_of_birth": "Canada",
+    "address": {
+        "street": "72 King Street West",
+        "city": "Mississauga",
+        "province_state": "Ontario",
+        "postal_code": "L5B 1H7",
+        "country": "Canada"
+    },
+    "sin_last4": "3345",
+    "us_person": false,
+    "tax_residencies": ["Canada"],
+    "pep_self_declaration": false,
+    "employment": {
+        "status": "employed",
+        "employer": "Deloitte Canada",
+        "occupation": "Senior Accountant",
+        "industry": "Professional Services",
+        "years_employed": 5
+    },
+    "annual_income": 105000,
+    "net_worth": 420000,
+    "source_of_funds": "employment_income",
+    "source_of_wealth": "Employment savings, RRSP, and TFSA contributions",
+    "intended_use": "Retirement savings and medium-term growth",
+    "account_requests": [
+        {
+            "account_type": "personal_investment",
+            "investment_objectives": "balanced_growth",
+            "risk_tolerance": "medium",
+            "time_horizon": "15+ years",
+            "initial_deposit": 50000,
+            "expected_activity": "Monthly contributions of $1,000"
+        }
+    ],
+    "third_party_determination": false
+}

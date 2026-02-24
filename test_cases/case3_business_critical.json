@@ -1,0 +1,98 @@
+{
+    "client_type": "business",
+    "legal_name": "Northern Maple Trading Corp.",
+    "operating_names": ["Northern Maple Trading", "NMT International"],
+    "business_number": "BN 987654321",
+    "incorporation_jurisdiction": "British Columbia",
+    "incorporation_date": "2019-06-15",
+    "entity_type": "Private Corporation",
+    "industry": "Import/Export - Commodities",
+    "nature_of_business": "International commodity trading specializing in lumber, minerals, and agricultural products. Primary trade corridors: Canada-Russia, Canada-Turkey, Canada-UAE",
+    "address": {
+        "street": "800 West Pender Street, Suite 1400",
+        "city": "Vancouver",
+        "province_state": "British Columbia",
+        "postal_code": "V6C 2V6",
+        "country": "Canada"
+    },
+    "countries_of_operation": ["Canada", "Russia", "Turkey", "United Arab Emirates", "Singapore"],
+    "annual_revenue": 12000000,
+    "expected_transaction_volume": 2500000,
+    "expected_transaction_frequency": "weekly",
+    "source_of_funds": "Trade revenue from commodity sales",
+    "intended_use": "Operating account, trade finance, foreign exchange",
+    "us_nexus": true,
+    "us_nexus_details": "Occasional USD-denominated commodity contracts; correspondent banking through US institutions",
+    "beneficial_owners": [
+        {
+            "full_name": "Viktor Petrov",
+            "date_of_birth": "1968-11-03",
+            "citizenship": "Canada",
+            "country_of_residence": "Canada",
+            "country_of_birth": "Russia",
+            "ownership_percentage": 51,
+            "role": "Director and President",
+            "pep_self_declaration": false,
+            "address": {
+                "street": "3200 Marine Drive",
+                "city": "West Vancouver",
+                "province_state": "British Columbia",
+                "postal_code": "V7V 1M5",
+                "country": "Canada"
+            }
+        },
+        {
+            "full_name": "Sarah Chen",
+            "date_of_birth": "1982-04-17",
+            "citizenship": "Canada",
+            "country_of_residence": "Canada",
+            "country_of_birth": "Canada",
+            "ownership_percentage": 30,
+            "role": "Director and CFO",
+            "pep_self_declaration": false,
+            "address": {
+                "street": "1500 Robson Street, Unit 2201",
+                "city": "Vancouver",
+                "province_state": "British Columbia",
+                "postal_code": "V6G 1C2",
+                "country": "Canada"
+            }
+        },
+        {
+            "full_name": "James MacDonald",
+            "date_of_birth": "1975-09-28",
+            "citizenship": "Canada",
+            "country_of_residence": "United Arab Emirates",
+            "country_of_birth": "Canada",
+            "ownership_percentage": 19,
+            "role": "VP International Operations",
+            "pep_self_declaration": false,
+            "address": {
+                "street": "Dubai Marina, Tower 4, Unit 3805",
+                "city": "Dubai",
+                "province_state": "",
+                "postal_code": "",
+                "country": "United Arab Emirates"
+            }
+        }
+    ],
+    "account_requests": [
+        {
+            "account_type": "business_operating",
+            "investment_objectives": "capital_preservation",
+            "risk_tolerance": "low",
+            "time_horizon": "1-3 years",
+            "initial_deposit": 250000,
+            "expected_activity": "Weekly international wire transfers $50K-$500K, receivables from commodity sales"
+        },
+        {
+            "account_type": "business_investment",
+            "investment_objectives": "income",
+            "risk_tolerance": "low",
+            "time_horizon": "3-5 years",
+            "initial_deposit": 1000000,
+            "expected_activity": "Excess cash reserves, GIC ladder strategy"
+        }
+    ],
+    "third_party_determination": false
+}
